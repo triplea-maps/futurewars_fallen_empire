@@ -1,0 +1,5 @@
+map_name: futurewars_fallen_empire
+games:
+- game_name: 'Futurewars: Fallen Empire'
+  file_name: futurewars_fallen_empire.xml
+version: 0
